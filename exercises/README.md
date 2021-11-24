@@ -15,7 +15,7 @@ Program names are provided in the task description.
     - odd (`AreOddsOnly(s []int) bool`);
     - even (`AreEvenOnly(s []int) bool`).
 
-   Program name: `only_odds_and_evens`.
+   Program name: `only_odds_and_evens`. 
 
 3. Create a copy of a slice, containing only numbers which are:
     - odd (`FilterOdds(s []int) []int`);

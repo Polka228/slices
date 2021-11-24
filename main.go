@@ -10,7 +10,6 @@ func snake(row, acol int)[][]int{
 			x++
 			a[i][j]=x
 		}
-
 	}
 	return a
 }
